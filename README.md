@@ -6,7 +6,7 @@
 
 1) 5446 participants with 516 variables
 2) time point 1 (Q1) : gestational week 11-18
-3) time point 2 (Q2) : gestational week 26-23
+3) time point 2 (Q2) : gestational week 26-32
 4) filteration criteria : Depression_score < 13 - no available data - available corresponding sequenced microbiome sample - antidepression medication consumption
 
 ### Variable selection ( potential effect on stress-depression- microbiome composition )
